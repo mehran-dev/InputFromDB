@@ -1,0 +1,17 @@
+.selectPair {
+    border       : 1px solid #222;
+    padding      : 3px 6px;
+    border-radius: 6px;
+}
+
+.selectPair>* {
+    margin: 0 6px;
+}
+
+.select {
+    border       : 1px solid #333;
+    border-radius: 6px;
+    padding      : 0 3px;
+    color        : #111;
+    min-width    : 60px;
+}
